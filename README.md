@@ -1,4 +1,6 @@
 # Restaurants-website---front-page-of-a-restaurant
+![image](https://github.com/poojamaurya3477/Restaurants-website---front-page-of-a-restaurant/assets/119335176/41d8ab3b-21f3-424e-8456-f920038bb8f4)
+
 A great restaurant website can attract new customers and raise the overall profile of your restaurant. Here’s how to create your own restaurant website
 here's the html code provided .......
 <html>
